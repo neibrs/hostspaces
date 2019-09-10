@@ -1,6 +1,6 @@
 name: online
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'online base'
 version: VERSION

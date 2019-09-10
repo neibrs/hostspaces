@@ -1,7 +1,7 @@
 name: Member
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'Management hostspace members'
 version: VERSION
 dependencies:

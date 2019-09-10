@@ -1,7 +1,7 @@
 name: Parts
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: '配件'
 version: VERSION
 dependencies:

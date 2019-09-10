@@ -1,7 +1,7 @@
 name: Product
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'To sell products'
 version: VERSION
 dependencies:

@@ -1,7 +1,7 @@
 name: SOP
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'Hostspace工单流程系统'
 version: VERSION
 dependencies:

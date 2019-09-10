@@ -1,7 +1,7 @@
 name: Publish_information
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'Management information of the website'
 version: VERSION
 dependencies:

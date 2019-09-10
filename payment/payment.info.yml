@@ -1,6 +1,6 @@
 name: Payment
 type: module
 core: 8.x
-package: Hostspaces - payment
+package: Neibrs - payment
 description: 'Payment settings'
 version: VERSION

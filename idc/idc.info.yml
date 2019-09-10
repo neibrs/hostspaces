@@ -1,7 +1,7 @@
 name: IDC Room
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'IDC Room Management'
 version: VERSION
 dependencies:

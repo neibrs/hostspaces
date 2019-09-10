@@ -1,7 +1,7 @@
 name: Sync migration
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'sync migration'
 version: VERSION
 dependencies:

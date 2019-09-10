@@ -1,6 +1,6 @@
 name: Login History
 type: module
 core: 8.x
-package: Hostspaces
+package: Neibrs
 description: 'login history'
 version: VERSION
