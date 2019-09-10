@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 
 
 sudo chmod -R a+rw sites/default
