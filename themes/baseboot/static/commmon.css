@@ -172,15 +172,15 @@ html {
 margin-right: auto;
 margin-left: auto;
 }
-.container div #block-xunyun-branding,.container div #block-sitebranding {
+.container div #block-baseboot-branding,.container div #block-sitebranding {
   margin-top: 20px;
 }
-.container div #block-xunyun-branding a,
-.container div #block-xunyun-branding a:visited,
-.container div #block-xunyun-branding a:hover,
+.container div #block-baseboot-branding a,
+.container div #block-baseboot-branding a:visited,
+.container div #block-baseboot-branding a:hover,
 .container div #block-sitebranding a,
 .container div #block-sitebranding a:visited,
-.container div #block-sitebranding a:hover,{
+.container div #block-sitebranding a:hover {
   color: white;
 }
 nav.menu--main {

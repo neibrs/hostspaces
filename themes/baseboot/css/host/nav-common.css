@@ -19,11 +19,11 @@
 }
 
 /* line 16, ../../bag/sass/host/nav-common.scss */
-#block-xunyun-branding > a {
+#block-baseboot-branding > a {
   color: white;
 }
 /* line 18, ../../bag/sass/host/nav-common.scss */
-#block-xunyun-branding > a:visited, #block-xunyun-branding > a:focus, #block-xunyun-branding > a:hover {
+#block-baseboot-branding > a:visited, #block-baseboot-branding > a:focus, #block-baseboot-branding > a:hover {
   color: white;
 }
 
@@ -37,7 +37,7 @@
 }
 
 /* line 28, ../../bag/sass/host/nav-common.scss */
-#block-sitebranding, #block-xunyun-branding {
+#block-sitebranding, #block-baseboot-branding {
   float: left;
 }
 

@@ -1,6 +1,6 @@
 name: Xunyun
 type: theme
-description: 'Test xunyun theme.'
+description: 'Test baseboot theme.'
 ckeditor_stylesheets:
   - css/ckeditor-iframe.css
 stylesheets-remove:
